@@ -503,4 +503,4 @@ The concept of an arbitrary state transition function as implemented by the Ethe
 
 _For history of the white paper, see https://github.com/ethereum/wiki/blob/old-before-deleting-all-files-go-to-wiki-wiki-instead/old-whitepaper-for-historical-reference.md_
 
-_Ethereum, like many community-driven, open-source software projects, has evolved since its initial inception. To learn about the latest developments of Ethereum, and how changes to the protocol are made, we recommend [this guide](/learn/)._
+_Ethereum, like many community-driven, open-source software projects, has evolved since its initial inception. To learn about the latest developments of Ethereum, and how changes to the protocol are made, we recommend [this guide](/learn/)._ k
